@@ -4,7 +4,7 @@
     
 ### What is CLI?
 
-Give commands to a computer program in the form of text to do something. Used in programming languages like Python.
+Give commands to a computer program in the form of text to do something.
 
 Also refer to: 
 
