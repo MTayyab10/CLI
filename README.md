@@ -20,4 +20,4 @@ Also refer to:
 
 Both in window and mac `ls` ls stands for list. It's gonna list all of the folders on computer.
 
-**open folders**(#ls)
+**ls**
