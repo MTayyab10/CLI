@@ -4,7 +4,7 @@
     
 ### What is CLI?
 
-Give commands to a computer program in the form of text. Used in programming languages like Python.
+Give commands to a computer program in the form of text to do something. Used in programming languages like Python.
 
 Also refer to: 
 
@@ -12,13 +12,17 @@ Also refer to:
 * Bash 
 * Shell
 
-## Commands
+## Useful Commands
 
 * [ls](#ls)
-* [open/start](#open/start)
+* [open_start](#open_start)
+* 
 
-#### ls 
+### ls 
 
-Both in window and mac `ls` ls stands for list. It's gonna list all of the folders on computer.
+`ls` is same for window and mac. `ls` stands for list. This command show **list** all of the folders on our computer.
 
-#### open/start
+### open_start
+
+`open .` for mac and `start .` fro window. It's gonna open folders on computers 
+
