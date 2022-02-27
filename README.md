@@ -15,19 +15,10 @@ Also refer to:
 ## Commands
 
 * [ls](#ls)
+* [. open / .start](#.open/.start)
 
-**list** 
+#### ls 
 
 Both in window and mac `ls` ls stands for list. It's gonna list all of the folders on computer.
 
-
-dasfkldasf 
-
-#### kdsafk 
-
-
-# dkasfj adfs 
-
-# sdakfkdsf kdsf j
-
-### **ls**
+#### .open/.start
