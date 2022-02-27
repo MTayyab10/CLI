@@ -8,6 +8,6 @@ Give commands to a computer program in the form of lines of text.
 
 Also refer to: 
 
-* Terminal 
+* Terminal / Cmd 
 * Bash 
 * Shell
