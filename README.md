@@ -15,10 +15,10 @@ Also refer to:
 ## Commands
 
 * [ls](#ls)
-* [. open / .start](#.open/.start)
+* [.open/start](#.open/start)
 
 #### ls 
 
 Both in window and mac `ls` ls stands for list. It's gonna list all of the folders on computer.
 
-#### .open/.start
+#### .open/start
