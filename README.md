@@ -17,6 +17,7 @@ Also refer to:
 * [ls_dir](#ls_dir)
 * [open_start](#open_start)
 * [cd](#cd)
+* [touch](#touch_echo)
 
 ### ls_dir 
 
@@ -29,6 +30,8 @@ Also refer to:
 ### cd
 `cd` used to go in other folders. `cd` means change dir. If we type `cd Music` so now we are in Music folder, here **Music==foldername**.
 * If we gonna back then type `cd ..`
+
+### touch_echo
 
 
 
