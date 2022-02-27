@@ -17,7 +17,10 @@ Also refer to:
 * [ls_dir](#ls_dir)
 * [open_start](#open_start)
 * [cd](#cd)
-* [touch](#touch_echo)
+
+**For creating files & dir**
+
+* [touch_echo](#touch_echo)
 
 ### ls_dir 
 
@@ -32,6 +35,9 @@ Also refer to:
 * If we gonna back then type `cd ..`
 
 ### touch_echo
+
+`touch index.html` will create a new file in mac and `echo.> index.html` in window. For folders `mkdir hello`.
+
 
 
 
