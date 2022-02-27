@@ -14,15 +14,22 @@ Also refer to:
 
 ## Useful Commands
 
-* [ls](#ls)
+* [ls_dir](#ls_dir)
 * [open_start](#open_start)
-* 
+* [cd](#cd)
 
-### ls 
+### ls_dir 
 
-`ls` is same for window and mac. `ls` stands for list. This command show **list** all of the folders on our computer.
+`ls` for mac and `dir` for window. `ls` mean list and `dir` for directories. This command show **list or dir** all of the folders on our computer.
 
 ### open_start
 
-`open .` for mac and `start .` fro window. It's gonna open folders on computers 
+`open .` for mac and `start .` fro window. It's gonna open folders on computers.
+
+### cd
+`cd` used to go in other folders. `cd` means change dir. If we type `cd Music` so now we are in Music folder, here **Music==foldername**.
+
+
+
+
 
